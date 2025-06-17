@@ -1,4 +1,4 @@
-So, what if you want to get into another folder?
+So, what if you want to get into another directory?
 
 No problem!
 
