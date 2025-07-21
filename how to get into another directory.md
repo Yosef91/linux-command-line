@@ -8,7 +8,8 @@ cd stands for change directory
 
 the first thing you'd write would be cd then the name of the directory.
 
-![image](https://github.com/user-attachments/assets/b16a86e0-64c1-4952-9c39-ac05cb3a284a)
+<img width="1416" height="672" alt="cd" src="https://github.com/user-attachments/assets/9e4d46df-b04d-4416-8b49-93569d94ff82" />
+
 
 
 
