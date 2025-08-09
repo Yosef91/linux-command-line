@@ -1,3 +1,3 @@
 # linux-command-line
 
-this is the place for learning linux.
+want to learn a bit of linux? no problem, just come here.
