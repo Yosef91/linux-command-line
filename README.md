@@ -2,4 +2,4 @@
 
 want to learn a bit of linux? no problem, just come here.
 
-<img width="1012" height="1199" alt="image" src="https://github.com/user-attachments/assets/eb270f41-2f76-4cdd-9147-5a5b9720f627" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/581bfcca-4bbc-4ffb-8a70-8ab134929da2" />
