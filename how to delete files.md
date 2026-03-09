@@ -13,4 +13,5 @@ I know, pretty crazy right?
 
 <img width="1416" height="672" alt="rm" src="https://github.com/user-attachments/assets/ab38ae12-6d29-4822-9fbc-2fbca2a20aad" />
 
-<img width="1416" height="672" alt="human skeleton" src="https://github.com/user-attachments/assets/b24f1d42-a30a-4557-808a-2529b383b538" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/68d7fa4c-d867-444c-9d73-7fc1347d380a" />
+
