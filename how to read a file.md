@@ -4,5 +4,5 @@ want to read wackadoodle.txt, then say cat wackadoodle.txt
 
 you get the point.
 
-<img width="1416" height="672" alt="cat" src="https://github.com/user-attachments/assets/e2555dac-4109-46c1-826e-067a50ab9ca8" /><img width="1416" height="672" alt="cat" src="https://github.com/user-attachments/assets/2e74ecc3-db9b-4f3d-a407-75c89e3384cf" />
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/64f239d8-217d-4709-bc0c-3aa006ee38e0" />
 
